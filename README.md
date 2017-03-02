@@ -60,6 +60,7 @@ Share your happiness! :v:
 ## Tools
 
 * [Sketch](https://www.sketchapp.com/)
+* [Origami](http://origami.design/)
 * [Texteditor](https://atom.io/)
 * [Git](https://git-scm.com/)
 * [Spotify](https://www.spotify.com)
