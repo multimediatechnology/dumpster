@@ -44,7 +44,7 @@ Share your happiness! :v:
 * [Rob Greenfield's Guide to Dumpster Diving](http://robgreenfield.tv/dumpsterdiving/)
 * [A Headlong Dive into the Trash](http://www.spiegel.de/international/zeitgeist/dumpster-delicacies-a-headlong-dive-into-the-trash-a-695902.html)
 
-### Related works
+### Related work
 
 * [Facebook Group: Containern und Dumpstern](https://www.facebook.com/containern)
 * [Danke! Eine Hamburgerin kämpft dafür, dass du überall gratis Wasser bekommst](http://www.bento.de/nachhaltigkeit/gratis-wasser-mit-refill-hamburg-bekommt-du-ueberall-leitungswasser-1198723/#refsponi)
