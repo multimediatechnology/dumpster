@@ -6,7 +6,7 @@
 This is our entry for the [EYA 2017 hackathon](https://eu-youthaward.org/social-hackathon-2017/).
 We love food and friends and therefore we need to create the ultimate tool to
 combine the best of both worlds. **dumpster chef** is an adventurous journey and
-your chance to make new friends and the world a better place by opposing to the
+your chance to make new friends and the world a better place by opposing the
 [*Throw-away society*](https://en.wikipedia.org/wiki/Throw-away_society).
 
 > A **dumpster diver** is someone who takes items that have been discarded, in
