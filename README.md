@@ -57,6 +57,14 @@ Share your happiness! :v:
 * :chocolate_bar: Susanne (sry, hab eure Namen nicht richtig im Kopf :innocent:)
 * :chocolate_bar: Christina
 
+## Tools
+
+* [Sketch](https://www.sketchapp.com/)
+* [Texteditor](https://atom.io/)
+* [Git](https://git-scm.com/)
+* [Spotify](https://www.spotify.com)
+* [Pizza](https://www.pizzamann.at)
+
 ## License
 
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
