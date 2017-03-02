@@ -56,11 +56,11 @@ Share your happiness! :v:
 ## Team
 
 * :cookie: Neele Barthel
+* :chocolate_bar: Susanne Baumgärtner
 * :grapes: Tobias Gann
 * :princess: Hannes Moser
+* :chocolate_bar: Christina Schraml
 * :icecream: Vanessa Winklbauer
-* :chocolate_bar: Susanne (sry, hab eure Namen nicht richtig im Kopf :innocent:)
-* :chocolate_bar: Christina
 
 ## Tools
 
