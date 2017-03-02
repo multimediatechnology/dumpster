@@ -1,2 +1,2 @@
 # dumpster
-Networking for social food lovers.
+> Networking for social food lovers.
