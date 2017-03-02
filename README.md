@@ -56,6 +56,7 @@ Share your happiness! :v:
 ## Team
 
 * :cookie: Neele Barthel
+* :grapes: Tobias Gann
 * :princess: Hannes Moser
 * :icecream: Vanessa Winklbauer
 * :chocolate_bar: Susanne (sry, hab eure Namen nicht richtig im Kopf :innocent:)
