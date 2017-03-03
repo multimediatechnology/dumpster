@@ -1,12 +1,16 @@
 {
-  "name": "creative",
-  "title": "Creative",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
+  "name": "dumpster",
+  "title": "Networking for social food lovers.",
+  "version": "1.0.0",
+  "homepage": "https://dumpsterchef.org",
+  "author": "Team Chef",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp dev"
+  },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://opensource.org/licenses/MIT"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -24,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/multimediatechnology/dumpster.git"
   }
 }
