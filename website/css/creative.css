@@ -62,16 +62,28 @@ aside {
   padding: 0;
 }
 /* my code  */
-.multi {
+.pdiv {
   line-height: 200%;
-  /*text-align: left;*/
+  text-align: left;
 }
 @media (min-width: 768px) {
-  .multi {
+  .pdiv {
     /*  column-count: 2;
     column-gap: 30px;*/
     width: 80%;
     margin: 0px auto;
+  }
+}
+.green-span {
+  color: #A2CD5A;
+}
+.multi {
+  padding-bottom: 120px;
+}
+@media (min-width: 768px) {
+  .multi {
+    column-count: 2;
+    column-gap: 30px;
   }
 }
 #contact {
@@ -86,6 +98,7 @@ aside {
     padding-top: 50px;
   }
 }
+/* my code end */
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
