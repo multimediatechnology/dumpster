@@ -98,6 +98,10 @@ aside {
     padding-top: 50px;
   }
 }
+.divVideo {
+  background-image: url('../img/mockup.png');
+  height: 500px;
+}
 /* my code end */
 .navbar-default {
   background-color: white;
