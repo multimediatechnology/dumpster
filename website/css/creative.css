@@ -98,6 +98,11 @@ aside {
     padding-top: 50px;
   }
 }
+@media (max-width: 767px) {
+  .eattogether {
+    padding-bottom: 30px;
+  }
+}
 .divVideo .video {
   background-image: url('../img/mockup.png');
   background-size: 100% auto;
