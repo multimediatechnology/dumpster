@@ -114,9 +114,38 @@ aside {
 
 }
 
+
+
 .divVideo {
-  background-image: url('../img/mockup.png');
-  height: 500px;
+  .video{
+    background-image: url('../img/mockup.png') ;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 250px;
+    height: auto;
+    padding: 72px 20px 80px;
+  }
+}
+
+.videotext{
+  margin-top: 50px;
+}
+
+@media (min-width: 992px) {
+  .videotext{
+    margin-top: 0;
+    text-align: left;
+    padding-top: 40px;
+
+    hr.left{
+      margin: 30px 0 !important;
+    }
+
+    .fullwidth{
+      max-width: 100% !important;
+    }
+  }
 }
 
 /* my code end */
@@ -215,7 +244,7 @@ header {
     min-height: auto;
     .background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header-blurred.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -242,7 +271,7 @@ header {
             }
         }
     }
-    @media (min-width: 768px) {
+    @media (min-width: 992px) {
         min-height: 100%;
         .header-content {
             position: absolute;

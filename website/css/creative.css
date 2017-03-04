@@ -98,9 +98,30 @@ aside {
     padding-top: 50px;
   }
 }
-.divVideo {
+.divVideo .video {
   background-image: url('../img/mockup.png');
-  height: 500px;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  text-align: left;
+  width: 250px;
+  height: auto;
+  padding: 72px 20px 80px;
+}
+.videotext {
+  margin-top: 50px;
+}
+@media (min-width: 992px) {
+  .videotext {
+    margin-top: 0;
+    text-align: left;
+    padding-top: 40px;
+  }
+  .videotext hr.left {
+    margin: 30px 0 !important;
+  }
+  .videotext .fullwidth {
+    max-width: 100% !important;
+  }
 }
 /* my code end */
 .navbar-default {
@@ -197,7 +218,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/header-blurred.jpg');
   text-align: center;
   color: white;
 }
@@ -223,7 +244,7 @@ header .header-content .header-content-inner p {
   font-size: 16px;
   margin-bottom: 50px;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   header {
     min-height: 100%;
   }
