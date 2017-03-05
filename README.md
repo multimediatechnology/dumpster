@@ -1,4 +1,4 @@
-# ![dumpster chef](assets/images/brand.png)
+# ![dumpster chef](assets/images/logo.png)
 > Networking for social food lovers.
 
 ## Synopsis
